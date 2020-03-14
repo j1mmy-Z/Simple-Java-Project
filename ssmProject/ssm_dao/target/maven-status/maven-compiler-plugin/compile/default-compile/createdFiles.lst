@@ -1,0 +1,8 @@
+com\jimmy\dao\OrdersDao.class
+com\jimmy\dao\ProductDao.class
+com\jimmy\dao\PermissionDao.class
+com\jimmy\dao\RoleDao.class
+com\jimmy\dao\TravellerDao.class
+com\jimmy\dao\UserDao.class
+com\jimmy\dao\SysLogDao.class
+com\jimmy\dao\MemberDao.class
